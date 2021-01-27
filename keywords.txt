@@ -1,0 +1,16 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EasyHTTP	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+connectWiFi	KEYWORD2
+setBaseURL	KEYWORD2
+getLastCode	KEYWORD2
+get	KEYWORD2
+post	KEYWORD2
+lastCode	KEYWORD2
